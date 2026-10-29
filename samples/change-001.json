@@ -1,0 +1,22 @@
+{
+  "change_id": "CO-2026-014",
+  "job_id": "JOB-2026-042",
+  "client": "Acme Property Management",
+  "location": "123 Main St, Springfield MO",
+  "description": "Replace failed contactor and add surge protection on rooftop unit RTU-3",
+  "reason": "Contactor failed during original capacitor service; surge protection recommended after voltage event",
+  "labor_hours": 1.5,
+  "labor_rate": 125.0,
+  "materials": [
+    {"item": "Contactor 40A", "qty": 1, "unit_cost": 48.0},
+    {"item": "Surge protector", "qty": 1, "unit_cost": 89.0}
+  ],
+  "materials_total": 137.0,
+  "estimated_total": 324.5,
+  "client_acknowledged": true,
+  "client_name": "Jordan Lee",
+  "client_signature_note": "Verbal + photo of signed paper ticket",
+  "media_hashes": [],
+  "operator": "tech-dan",
+  "notes": "Client approved on-site before parts ordered."
+}
